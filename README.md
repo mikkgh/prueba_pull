@@ -1,9 +1,11 @@
 # prueba_pull
 
-1.- Introdución
+1. - Introdución
 
-2.-¿Que es un Pull Rekuest?
+2. -¿Que es un Pull Rekuest?
 
-3.- Procedimiento.
+3. - Procedimiento
 
-Referencias
+4. - Referencias
+
+5. - Licencia
