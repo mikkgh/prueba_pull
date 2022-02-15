@@ -2,7 +2,7 @@
 
 1.- Introdución
 
-2.-¿Que es un Pull Rekuest?
+2.-¿Que es un Pull Request?
 
 3.- Procedimiento.
 
