@@ -1,6 +1,6 @@
 # prueba_pull
 
-1.- Introdución
+1.- Introducción
 
 2.-¿Que es un Pull Request?
 
